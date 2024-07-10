@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Subashinimuralikrishnan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m interested in Web Development,Data Science and Machine Learning
+- 🌱 I’m currently learning Full Stack Web Development (BootCamp) and ML
